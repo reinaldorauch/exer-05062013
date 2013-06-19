@@ -1,0 +1,2658 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ind",
+				"ind_men"
+			],
+			[
+				"mai",
+				"maior"
+			],
+			[
+				"ind_",
+				"ind_men"
+			],
+			[
+				"pr",
+				"printf	printf …"
+			],
+			[
+				"p_m",
+				"p_maior"
+			],
+			[
+				"modal",
+				"modalFn"
+			],
+			[
+				"plu",
+				"pluploadQueue"
+			],
+			[
+				"anexos",
+				"anexos_plupload"
+			],
+			[
+				"ane",
+				"anexo"
+			],
+			[
+				"V",
+				"Model_Views_VwContratosExperienciaVencidos"
+			],
+			[
+				"fe",
+				"fetchAll  (function)"
+			],
+			[
+				"id_",
+				"id_empresa"
+			],
+			[
+				"expe",
+				"experiencia"
+			],
+			[
+				"part",
+				"partials/cliente/ultimas"
+			],
+			[
+				"par",
+				"partialLoop"
+			],
+			[
+				"tempo",
+				"tempo_final_experiencia2"
+			],
+			[
+				"_",
+				"__toString  (function)"
+			],
+			[
+				"id",
+				"id_empresa"
+			],
+			[
+				"inhe",
+				"inherit"
+			],
+			[
+				"opcoes",
+				"opcoesRelatorio"
+			],
+			[
+				"Model_",
+				"Model_VwUltimasInteracoes"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"plup",
+				"plupload_config"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"up",
+				"uploader"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"auto",
+				"autoOpen"
+			],
+			[
+				"adiciona",
+				"adicionar_anexos"
+			],
+			[
+				"but",
+				"buttonS"
+			],
+			[
+				"Zend_Form_Eleme",
+				"Zend_Form_Element_Button  (class)"
+			],
+			[
+				"getid",
+				"getIdUsuarioAbertura"
+			],
+			[
+				"id_usu",
+				"id_usuario_abertura"
+			],
+			[
+				"utf8_",
+				"utf8_decode"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"con",
+				"contadores"
+			],
+			[
+				"Ad",
+				"addMultiOption"
+			],
+			[
+				"getEmpresa",
+				"getIdEmpresa"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"fet",
+				"fetchAll"
+			],
+			[
+				"se",
+				"assemble  (function)"
+			],
+			[
+				"noti",
+				"notificacao_email"
+			],
+			[
+				"sen",
+				"sendEmailNotificacaoCliente"
+			],
+			[
+				"setFrom",
+				"setFromToDefaultFrom  (function)"
+			],
+			[
+				"set",
+				"setBodyHtml  (function)"
+			],
+			[
+				"PUBLI",
+				"PUBLIC_PATH"
+			],
+			[
+				"AP",
+				"APPLICATION_ENV"
+			],
+			[
+				"setDe",
+				"setFromToDefaultFrom  (function)"
+			],
+			[
+				"Zend_Mail_Tr",
+				"Zend_Mail_Transport_Smtp  (class)"
+			],
+			[
+				"desco",
+				"desconhecido"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"getA",
+				"getAtividadesByResponsavel"
+			],
+			[
+				"id_u",
+				"id_usuario_responsavel"
+			],
+			[
+				"tem",
+				"tempo_termino"
+			],
+			[
+				"dataT",
+				"dataTable"
+			],
+			[
+				"getV",
+				"getViewModel"
+			],
+			[
+				"getP",
+				"getParams"
+			],
+			[
+				"foe",
+				"foreach	foreach …"
+			],
+			[
+				"base",
+				"baseURL"
+			],
+			[
+				"data-",
+				"data-url-ajax"
+			],
+			[
+				"model",
+				"_modelView  (variable)"
+			],
+			[
+				"Model_Re",
+				"Model_ReturnDataTables  (class)"
+			],
+			[
+				"get",
+				"getTotalNumRows  (function)"
+			],
+			[
+				"Zend_Db_Table",
+				"Zend_Db_Table_Abstract"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"get_clas",
+				"get_class_methods"
+			],
+			[
+				"zend",
+				"Zend_Db_Table"
+			],
+			[
+				"__",
+				"__toString"
+			],
+			[
+				"fetc",
+				"fetchAll"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"pg_es",
+				"pg_escape_string"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Zend_",
+				"Zend_Session_Namespace"
+			],
+			[
+				"_mo",
+				"_modelView"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"lo",
+				"logradouro"
+			],
+			[
+				"getAne",
+				"getAnexoPath"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"ae",
+				"anexos"
+			],
+			[
+				"P",
+				"PUBLIC_PATH"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"PU",
+				"PUBLIC_PATH"
+			],
+			[
+				"nome_",
+				"nome_usuario"
+			],
+			[
+				"nome",
+				"novamente"
+			],
+			[
+				"Model_OsA",
+				"Model_OsAnexos"
+			],
+			[
+				"MOdel",
+				"Model_Os"
+			],
+			[
+				"_model",
+				"_modelView"
+			],
+			[
+				"Zend_FormElem",
+				"Zend_Form_Element_Hidden  (class)"
+			],
+			[
+				"Model",
+				"Model_Periodos"
+			],
+			[
+				"view",
+				"viewHelper"
+			],
+			[
+				"Apl",
+				"Aplicacao_ViewHelper_Crypta"
+			],
+			[
+				"Apli",
+				"Aplicacao_Filter_DateToDb"
+			],
+			[
+				"inicio",
+				"inicio_abono"
+			],
+			[
+				"ad",
+				"adiantamento"
+			],
+			[
+				"Ap",
+				"Aplicacao"
+			],
+			[
+				"os",
+				"osAtividade"
+			],
+			[
+				"Model_Os",
+				"Model_OsAtividadesInteracoes"
+			],
+			[
+				"id_os",
+				"id_os"
+			],
+			[
+				"quote",
+				"quoteInto"
+			],
+			[
+				"excl",
+				"excluir"
+			],
+			[
+				"ni",
+				"notificações"
+			],
+			[
+				"q",
+				"quoteInto  (function)"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"id_f",
+				"id_ferias"
+			],
+			[
+				"addErr",
+				"addErrorMessage  (function)"
+			],
+			[
+				"ter",
+				"termino_ferias"
+			],
+			[
+				"id_e",
+				"id_periodo"
+			],
+			[
+				"id_usuario",
+				"id_usuario_atual"
+			],
+			[
+				"reload",
+				"reloadContent"
+			],
+			[
+				"is_",
+				"is_cliente"
+			],
+			[
+				"addIn",
+				"addInteracaoManual  (function)"
+			],
+			[
+				"stream_get",
+				"stream_get_wrappers"
+			],
+			[
+				"var_",
+				"var_dump  (function)"
+			],
+			[
+				"fetch",
+				"fetchRow  (function)"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"getRe",
+				"getRenovacoes"
+			],
+			[
+				"MO",
+				"Model_Renovacoes"
+			],
+			[
+				"Exce",
+				"Exception"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"tep",
+				"tempoVencimento"
+			],
+			[
+				"getClien",
+				"getClientesToVencList"
+			],
+			[
+				"Mod",
+				"Model_Clientes"
+			],
+			[
+				"setA",
+				"setAtivo"
+			],
+			[
+				"_a",
+				"_auth"
+			],
+			[
+				"requi",
+				"setRequired  (function)"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "c/menores_que_cem.c",
+			"settings":
+			{
+				"buffer_size": 928,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "c/temps_ano.c",
+			"settings":
+			{
+				"buffer_size": 393,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "c/num_primo_ou_nao.c",
+			"settings":
+			{
+				"buffer_size": 759,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "c/04_n_notas_n_pos_imp_inversa.c",
+			"settings":
+			{
+				"buffer_size": 859,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "c/05_n_notas_n_pos_soma_media.c",
+			"settings":
+			{
+				"buffer_size": 1004,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "c/06_n_notas_n_pos_maior_menor.c",
+			"settings":
+			{
+				"buffer_size": 1310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "c/n_medias_trinta_qtd_passou.c",
+			"settings":
+			{
+				"buffer_size": 875,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "c/03_n_notas_n_pos_critica_entrada.c",
+			"settings":
+			{
+				"buffer_size": 854,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"SSC",
+				"Set Syntax: C"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"setin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setu",
+				"Preferences: Settings - User"
+			],
+			[
+				"ssphg",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssini",
+				"Set Syntax: INI"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet gets",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Ips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"pacha",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Apac",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"INst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"fun",
+				"Snippet: Function Signature"
+			],
+			[
+				"inter",
+				"Snippet: Interface"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 473.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_05_06_2013/c/03_n_notas_n_pos_critica_entrada.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_05_06_2013/c/02_n_notas_n_pos.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_05_06_2013/c/01_dez_notas_30_pos.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_05_06_2013/c/n_notas_trinta_pos_maior_menor.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/aula_05_06_2013/c/num_primo_ou_nao.c",
+		"/home/reinaldo/trabalhos/efolha/docs/views/vw_contratos_experiencia_vencidos.sql",
+		"/home/reinaldo/trabalhos/efolha/node_modules/socket.io/.travis.yml",
+		"/home/reinaldo/trabalhos/efolha/application/layouts/scripts/layout.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/os/detalhes.phtml",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/functions.js",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/os.js",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/index/cliente.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/cliente/experiencia_vencida.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/cliente/experiencia.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwContratosExperiencia.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwContratosExperienciaVencidos.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/IndexController.php",
+		"/home/reinaldo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/reinaldo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwUltimasInteracoes.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/cliente/ultimas-interacoes.phtml",
+		"/home/reinaldo/trabalhos/efolha/public/css/styles.css",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/Filter/DateToDb.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/node/chat-usuario.js",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ViewHelper/Crypta.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/AdmissaoController.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/admissao.js",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Admissao.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Os.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/OsController.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Admissao.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/admissao/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/AnexosController.php",
+		"/home/reinaldo/trabalhos/efolha/application/Bootstrap.php",
+		"/home/reinaldo/trabalhos/efolha/.htaccess",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/CrudController.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/anexos/get-lista-anexos.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Os.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/node/socket.js",
+		"/home/reinaldo/trabalhos/efolha/application/models/UsuariosView.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Email.php",
+		"/home/reinaldo/trabalhos/efolha/application/configs/application.ini",
+		"/home/reinaldo/Desktop/dump_efolha2.backup",
+		"/home/reinaldo/trabalhos/efolha/docs/script_banco.sql",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/usuarios/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/forms/UsuarioUsuario.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/Acl/Setup.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/UsuarioMaster.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/usuarios.js",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/UsuariosController.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/UsuarioGerente.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Usuarios.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Empresas.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Usuario.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Usuario.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Mail/Transport/File.php",
+		"/home/reinaldo/trabalhos/efolha/public/index.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Notificacoes.php",
+		"/home/reinaldo/trabalhos/efolha/.gitignore",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Mail.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/FeriasController.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Application.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Application/Bootstrap/Bootstrap.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/node/chat-cliente.js",
+		"/home/reinaldo/trabalhos/efolha/application/models/OsAtividades.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Crud.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwOsClientes.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/chamados/listagem-atividades.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/chamados/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/ChamadosController.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/os/atividades.phtml",
+		"/home/reinaldo/trabalhos/efolha/docs/views/vw_termino_os.sql",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/chamados.js",
+		"/home/reinaldo/trabalhos/efolha/application/models/Atividades.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwTerminoOS.php",
+		"/home/reinaldo/trabalhos/efolha/docs/views/vw_contratos_experiencia.sql",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/ExperienciaController.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/experiencia/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/models/ReturnDataTables.php",
+		"/home/reinaldo/trabalhos/efolha/application/configs/navigation.xml",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ViewHelper/Status.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/helpers/Status.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/admissao/experiencia.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/index/usuario.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/recisao/recisoes.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/recisao/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/RecisaoController.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Funcionario.php",
+		"/home/reinaldo/Desktop/Arquivo/DataTables-1.9.4/examples/server_side/scripts/server_processing.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Service/WindowsAzure/Diagnostics/DirectoryConfigurationSubscription.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Recisao.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Recisao.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/admissao/index-usuario.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/models/OsAnexos.php",
+		"/home/reinaldo/trabalhos/efolha/node_modules/socket.io/node_modules/policyfile/lib/server.js",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ActionHelper/SendFile.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/anexos/get-anexos-list.phtml",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Gdata/DublinCore/Extension/Description.php",
+		"/home/reinaldo/trabalhos/efolha/docs/views/vw_os.sql",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/usuarios/detalhes.phtml",
+		"/home/reinaldo/trabalhos/efolha/docs/views/vw_os_clientes.sql",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/index/gerente.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/models/OsAtividadesInteracoes.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Ferias.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Funcionario.php",
+		"/home/reinaldo/trabalhos/efolha/application/controllers/FuncionarioController.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Ferias.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/ferias.js",
+		"/home/reinaldo/trabalhos/efolha/application/models/Log.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/Periodos.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/ferias/edit.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/ferias/index.phtml",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/partials/ferias/ferias.phtml",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ActionHelper/Crypta.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/helpers/Crypta.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Filter.php",
+		"/home/reinaldo/trabalhos/efolha/docs/views/vw_ferias.sql",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwFerias.php",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ViewHelper/DateToDb.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/ferias/detalhes.phtml",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Service/SlideShare.php",
+		"/home/reinaldo/trabalhos/efolha/public/js/files/recisoes.js",
+		"/home/reinaldo/trabalhos/efolha/library/Aplicacao/ViewHelper/Aviso.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwRecisao.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/Pdf/Resource/Font/Simple/Standard/HelveticaOblique.php",
+		"/home/reinaldo/trabalhos/efolha/application/models/VwUsuariosDepartamentos.php",
+		"/home/reinaldo/trabalhos/efolha/library/Zend/View/Helper/PartialLoop.php",
+		"/home/reinaldo/trabalhos/efolha/application/forms/Formdecorator.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/public/js",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/efolha/application/model",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/finsys/public/js",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/application",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/module",
+			"/home/reinaldo/trabalhos/finsys/vendor/doctrine/",
+			"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/index",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/public/scripts",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/library/Zend",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/library/Zend/View",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"*Controller.php",
+			"*.phtml",
+			"*.js",
+			"*.php",
+			"*.phtml",
+			"*.php",
+			"*.js",
+			"",
+			"/mnt/www/mbs/public/stylesheets",
+			"*.phtml,/mnt/www/mbs/application/views/scripts",
+			"*.js,/mnt/www/mbs/application/views/scripts",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"9",
+			"p_maior",
+			"+",
+			"modalFn",
+			"Anexos",
+			"md",
+			"modalFn",
+			"mofalFn",
+			"mdAnexos",
+			"anexos",
+			"default",
+			"ident",
+			"{  ",
+			"  ",
+			",  #",
+			"  ",
+			"opcoesRelatorio",
+			"detail",
+			"detal",
+			"p {",
+			"p",
+			"p.fluid",
+			"$('#anexos_plupload')",
+			"$('#admissao-modalAnexos .upload')",
+			"add_anexo",
+			"$this->Crypta",
+			"onAdmissaoSubmit",
+			"anexo",
+			"getIdOsFromAdmissao",
+			"$(this)",
+			"options",
+			"href",
+			"form",
+			".modal",
+			"modal",
+			"up",
+			"mu",
+			"plu",
+			"utf8_decode",
+			"submit",
+			"values",
+			"');\n",
+			"submit",
+			"getIdEmpresa",
+			"id_os",
+			"send",
+			"send()",
+			"send();",
+			"send()",
+			"send",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"_loadConfig",
+			"log(",
+			"dataTable",
+			"ge",
+			"getM",
+			"getMode",
+			"json_encode",
+			"model",
+			"getModelInfo",
+			"name",
+			"aColumns",
+			"select",
+			"data",
+			"model_atual",
+			"function",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"_modelView",
+			"$os",
+			" class=\"textL\"",
+			"->",
+			"admissao",
+			"join",
+			"join[",
+			"join",
+			"ILIKE",
+			"`",
+			"89",
+			",",
+			"getview",
+			"sTable",
+			"this->_model",
+			"$this",
+			"->select()",
+			".",
+			"_GET",
+			"asc",
+			"{",
+			",",
+			"usuarios",
+			".",
+			"\n			",
+			"cep",
+			"busca ceoo",
+			"cep",
+			"txt",
+			"tct",
+			"upload",
+			"id_os",
+			"path",
+			"<?= BASE_URL . str_replace(PUBLIC_PATH, PUBLIC_URL, $v['anexo']) ?>",
+			"\"\n",
+			", ",
+			"$_GET",
+			"_GET",
+			" $_GET",
+			"$_GET",
+			"_GET",
+			" $_GET",
+			"$_GET",
+			"is_master",
+			"funciona",
+			"id_funion",
+			".search",
+			"search",
+			"action",
+			"required",
+			".required",
+			"label",
+			"search",
+			".search",
+			".datepicker"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"            \n",
+			"remover",
+			"')\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "c/menores_que_cem.c",
+					"settings":
+					{
+						"buffer_size": 928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								881,
+								881
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.87625,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 0,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "c/temps_ano.c",
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.932169575619,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 0,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "c/num_primo_ou_nao.c",
+					"settings":
+					{
+						"buffer_size": 759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 0,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "c/04_n_notas_n_pos_imp_inversa.c",
+					"settings":
+					{
+						"buffer_size": 859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								696,
+								696
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 32,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "c/05_n_notas_n_pos_soma_media.c",
+					"settings":
+					{
+						"buffer_size": 1004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 2,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "c/06_n_notas_n_pos_maior_menor.c",
+					"settings":
+					{
+						"buffer_size": 1310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								832,
+								832
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 36,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "c/n_medias_trinta_qtd_passou.c",
+					"settings":
+					{
+						"buffer_size": 875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								859,
+								859
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 36,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "c/03_n_notas_n_pos_critica_entrada.c",
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								854,
+								854
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 40,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"functions",
+				"public/js/files/functions.js"
+			],
+			[
+				"chat",
+				"public/js/node/chat-cliente.js"
+			],
+			[
+				"docsviewvw_ex",
+				"docs/views/vw_contratos_experiencia_vencidos.sql"
+			],
+			[
+				"os.js",
+				"public/js/files/os.js"
+			],
+			[
+				"detalhes",
+				"application/views/scripts/os/detalhes.phtml"
+			],
+			[
+				"lay",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"indexcliete",
+				"application/views/scripts/index/cliente.phtml"
+			],
+			[
+				"indexclient",
+				"application/views/scripts/index/cliente.phtml"
+			],
+			[
+				"indexc",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"dateto",
+				"library/Aplicacao/Filter/DateToDb.php"
+			],
+			[
+				"func",
+				"public/js/files/functions.js"
+			],
+			[
+				"style",
+				"public/css/styles.css"
+			],
+			[
+				"index",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"sty",
+				"public/css/styles.css"
+			],
+			[
+				"oscon",
+				"application/controllers/OsController.php"
+			],
+			[
+				"modelos",
+				"application/models/Os.php"
+			],
+			[
+				"aplicacaocry",
+				"library/Aplicacao/ViewHelper/Crypta.php"
+			],
+			[
+				"admissao",
+				"application/controllers/AdmissaoController.php"
+			],
+			[
+				"admissa",
+				"public/js/files/admissao.js"
+			],
+			[
+				"formadmi",
+				"application/forms/Admissao.php"
+			],
+			[
+				"modeladmi",
+				"application/models/Admissao.php"
+			],
+			[
+				"admissaoin",
+				"application/views/scripts/admissao/index.phtml"
+			],
+			[
+				"admissaoo",
+				"application/controllers/AdmissaoController.php"
+			],
+			[
+				"anexo",
+				"application/controllers/AnexosController.php"
+			],
+			[
+				"boots",
+				"application/Bootstrap.php"
+			],
+			[
+				"anexosget",
+				"application/views/scripts/anexos/get-lista-anexos.phtml"
+			],
+			[
+				"crud",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"ane",
+				"application/controllers/AnexosController.php"
+			],
+			[
+				"function",
+				"public/js/files/functions.js"
+			],
+			[
+				"layout",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"formos",
+				"application/forms/Os.php"
+			],
+			[
+				"publicjnodesocj",
+				"public/js/node/socket.js"
+			],
+			[
+				"crudcon",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"usuariosv",
+				"application/models/UsuariosView.php"
+			],
+			[
+				"admissaoinde",
+				"application/views/scripts/admissao/index.phtml"
+			],
+			[
+				"admisa",
+				"application/models/Admissao.php"
+			],
+			[
+				"modelad",
+				"application/models/Admissao.php"
+			],
+			[
+				"admi",
+				"application/controllers/AdmissaoController.php"
+			],
+			[
+				"modelos.php",
+				"application/models/Os.php"
+			],
+			[
+				"usuario",
+				"application/models/Usuarios.php"
+			],
+			[
+				"crudcontr",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"usuariocon",
+				"application/controllers/UsuariosController.php"
+			],
+			[
+				"aclsetup",
+				"library/Aplicacao/Acl/Setup.php"
+			],
+			[
+				"fun",
+				"public/js/files/functions.js"
+			],
+			[
+				"modelempre",
+				"application/models/Empresas.php"
+			],
+			[
+				"usuariosinde",
+				"application/views/scripts/usuarios/index.phtml"
+			],
+			[
+				"formusuarios",
+				"application/forms/UsuarioMaster.php"
+			],
+			[
+				"usuarios.js",
+				"public/js/files/usuarios.js"
+			],
+			[
+				"formusuario",
+				"application/forms/Usuario.php"
+			],
+			[
+				"zenmai",
+				"library/Zend/Mail.php"
+			],
+			[
+				"admiss",
+				"application/controllers/AdmissaoController.php"
+			],
+			[
+				"ferias",
+				"application/controllers/FeriasController.php"
+			],
+			[
+				"transportfile",
+				"library/Zend/Mail/Transport/File.php"
+			],
+			[
+				"zendapplicationbootstrapboo",
+				"library/Zend/Application/Bootstrap/Bootstrap.php"
+			],
+			[
+				"zendapp",
+				"library/Zend/Application.php"
+			],
+			[
+				"noti",
+				"application/models/Notificacoes.php"
+			],
+			[
+				"camados",
+				"public/js/files/chamados.js"
+			],
+			[
+				"osa",
+				"application/models/OsAtividades.php"
+			],
+			[
+				"modelc",
+				"application/models/Crud.php"
+			],
+			[
+				"vwosc",
+				"application/models/VwOsClientes.php"
+			],
+			[
+				"chamadosinde",
+				"application/views/scripts/chamados/index.phtml"
+			],
+			[
+				"ativida",
+				"application/views/scripts/os/atividades.phtml"
+			],
+			[
+				"detalh",
+				"application/views/scripts/os/detalhes.phtml"
+			],
+			[
+				"experienciaind",
+				"application/views/scripts/experiencia/index.phtml"
+			],
+			[
+				"modelvwe",
+				"application/models/VwContratosExperiencia.php"
+			],
+			[
+				"experien",
+				"application/controllers/ExperienciaController.php"
+			],
+			[
+				"chamados",
+				"public/js/files/chamados.js"
+			],
+			[
+				"indexcliente",
+				"application/views/scripts/index/cliente.phtml"
+			],
+			[
+				"admissain",
+				"application/views/scripts/admissao/index.phtml"
+			],
+			[
+				"osdeta",
+				"application/views/scripts/os/detalhes.phtml"
+			],
+			[
+				"experiein",
+				"application/views/scripts/experiencia/index.phtml"
+			],
+			[
+				"chaadoscon",
+				"application/controllers/ChamadosController.php"
+			],
+			[
+				"chama",
+				"public/js/files/chamados.js"
+			],
+			[
+				"cha",
+				"application/controllers/ChamadosController.php"
+			],
+			[
+				"modelcrud",
+				"application/models/Crud.php"
+			],
+			[
+				"inde",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"idexc",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"indexu",
+				"application/views/scripts/index/usuario.phtml"
+			],
+			[
+				"indexcon",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"indexusuar",
+				"application/views/scripts/index/usuario.phtml"
+			],
+			[
+				"appl",
+				"application/configs/application.ini"
+			],
+			[
+				"reciso",
+				"application/views/scripts/partials/recisao/recisoes.phtml"
+			],
+			[
+				"recisaoinde",
+				"application/views/scripts/recisao/index.phtml"
+			],
+			[
+				"recisao",
+				"application/controllers/RecisaoController.php"
+			],
+			[
+				"modelusuaios",
+				"application/models/Usuarios.php"
+			],
+			[
+				"usuarios",
+				"application/controllers/UsuariosController.php"
+			],
+			[
+				"formfuncio",
+				"application/forms/Funcionario.php"
+			],
+			[
+				"formadmissao",
+				"application/forms/Admissao.php"
+			],
+			[
+				"recisaocon",
+				"application/controllers/RecisaoController.php"
+			],
+			[
+				"app",
+				"application/configs/application.ini"
+			],
+			[
+				"chamadoscon",
+				"application/controllers/ChamadosController.php"
+			],
+			[
+				"chamadosin",
+				"application/views/scripts/chamados/index.phtml"
+			],
+			[
+				"indexusuario",
+				"application/views/scripts/index/usuario.phtml"
+			],
+			[
+				"indexusu",
+				"application/views/scripts/admissao/index-usuario.phtml"
+			],
+			[
+				"nodeser",
+				"node_modules/socket.io/node_modules/policyfile/lib/server.js"
+			],
+			[
+				"get-",
+				"application/views/scripts/anexos/get-lista-anexos.phtml"
+			],
+			[
+				"atividade",
+				"application/views/scripts/os/atividades.phtml"
+			],
+			[
+				"atividades",
+				"application/views/scripts/os/atividades.phtml"
+			],
+			[
+				"modelane",
+				"application/models/OsAnexos.php"
+			],
+			[
+				"anexos",
+				"application/controllers/AnexosController.php"
+			],
+			[
+				"osdetalhes",
+				"application/views/scripts/os/detalhes.phtml"
+			],
+			[
+				"modelosa",
+				"application/models/OsAnexos.php"
+			],
+			[
+				"anexoscon",
+				"library/Zend/Gdata/DublinCore/Extension/Description.php"
+			],
+			[
+				"modelano",
+				"application/models/OsAnexos.php"
+			],
+			[
+				"oscontro",
+				"application/controllers/OsController.php"
+			],
+			[
+				"osdetal",
+				"application/views/scripts/os/detalhes.phtml"
+			],
+			[
+				"docsvw_os.",
+				"docs/views/vw_os.sql"
+			],
+			[
+				"osde",
+				"application/views/scripts/os/detalhes.phtml"
+			],
+			[
+				"osdetalh",
+				"application/views/scripts/os/detalhes.phtml"
+			],
+			[
+				"detalhs",
+				"application/views/scripts/usuarios/detalhes.phtml"
+			],
+			[
+				"crucontrop",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"indecon",
+				"application/controllers/IndexController.php"
+			],
+			[
+				"gerente",
+				"application/views/scripts/index/gerente.phtml"
+			],
+			[
+				"modelvwos",
+				"application/models/VwOsClientes.php"
+			],
+			[
+				"chamadoscontr",
+				"application/controllers/ChamadosController.php"
+			],
+			[
+				"osativid",
+				"application/views/scripts/os/atividades.phtml"
+			],
+			[
+				"modela",
+				"application/models/Atividades.php"
+			],
+			[
+				"funcionario",
+				"application/controllers/FuncionarioController.php"
+			],
+			[
+				"funcionaro",
+				"application/models/Funcionario.php"
+			],
+			[
+				"modell",
+				"application/models/Log.php"
+			],
+			[
+				"os",
+				"application/models/OsAtividadesInteracoes.php"
+			],
+			[
+				"no",
+				"application/models/Notificacoes.php"
+			],
+			[
+				"modelferias",
+				"application/models/Ferias.php"
+			],
+			[
+				"feriascon",
+				"application/controllers/FeriasController.php"
+			],
+			[
+				"formferias",
+				"application/forms/Ferias.php"
+			],
+			[
+				"formfun",
+				"application/forms/Funcionario.php"
+			],
+			[
+				"modelpe",
+				"application/models/Periodos.php"
+			],
+			[
+				"formferia",
+				"application/forms/Ferias.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true
+}
